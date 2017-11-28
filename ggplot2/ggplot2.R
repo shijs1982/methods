@@ -8,7 +8,7 @@ options(stringsAsFactors = FALSE)
 #load(".RData")
 
 # 安装包
-install.packages("ggplot2")
+#install.packages("ggplot2")
 
 # 导入包
 # 帮助文档链接：http://docs.ggplot2.org/current/
@@ -44,3 +44,44 @@ ggsave("out2.png",width=4,height=4)   # 设定图片大小
 
 
 a=as.list(c('a','b'),1,3)
+
+
+##http://www.jianshu.com/p/5c023771cfa6
+#基本语法
+library(gcookbook)
+ggplot(heightweight, aes(x=ageYear, y=heightIn, color=sex)) + geom_point() + geom_smooth()
+temp=heightweight
+
+#条形图
+ggplot(BOD) + geom_bar(aes(x=Time, y=demand), stat='identity')
+ggplot(BOD) + geom_bar(aes(x=factor(Time), y=demand), stat='identity')
+ggplot(cabbage_exp) + geom_bar(aes(x=Cultivar))
+ggplot(cabbage_exp) + geom_bar(aes(x=Cultivar, y=Weight, fill=Date), stat="identity")
+ggplot(cabbage_exp) + geom_bar(aes(x=Cultivar, y=Weight, fill=Date), stat="identity", position="dodge")
+
+#折线图
+ggplot(BOD) + geom_line(aes(x=Time, y=demand))
+# 同时绘制折线图和散点图
+# 将aes()写在ggplot()里面，对后续全部图层都生效
+ggplot(BOD, aes(x=Time, y=demand)) + geom_line() + geom_point()
+# 用line的color表示不同年龄层
+ggplot(uspopage) + geom_line(aes(x=Year, y=Thousands, color=AgeGroup))
+# 再来试试区域图，用area的fill表示不同年龄层
+ggplot(uspopage) + geom_area(aes(x=Year, y=Thousands, fill=AgeGroup))
+
+#分面
+ggplot(uspopage) + geom_area(aes(x=Year, y=Thousands)) + facet_wrap(~AgeGroup)
+ggplot(uspopage) + geom_line(aes(x=Year, y=Thousands)) + facet_wrap(~AgeGroup)
+
+
+##去掉淡灰底色和网格线
+#p + theme_classic()
+p=ggplot(BOD) + geom_bar(aes(x=Time, y=demand), stat='identity')
+p + theme_gray() # 默认
+p + theme_bw()
+p + theme_linedraw()
+p + theme_light()
+p + theme_dark()
+p + theme_minimal()
+p + theme_classic()
+p + theme_void()
