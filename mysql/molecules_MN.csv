@@ -1,0 +1,577 @@
+Gene_sybmol,Regulation_gene,Protein,Regulation_protein,Molecule,Regulation_molecule,PMID,Species_1,Species_2,Species_3,remark,source
+HLA-DRB1,NA,HLA-DRB1,NA,,,,,,,,
+HLA-A,NA,HLA-A2,NA,,,90863,,,,,
+HLA-DRB1,NA,HLA-DRB1,NA,,,6332232,,,,,
+HLA-DQB1,NA,HLA-DQB1,NA,,,1350648,,,,,
+HLA-DQA1,NA,HLA-DQA1,NA,,,1350648,,,,,
+HLA-DQA1,NA,HLA-DQA1,NA,,,2576474,,,,,
+HLA-DQA1,NA,HLA-DQA1,NA,,,21323541,,,,,
+HLA-DQA1,NA,HLA-DQA1,NA,,,23813219,,,,,
+HLA-DQB1,NA,HLA-DQB1,NA,,,23813219,,,,,
+HLA-DMA,NA,HLA-DMA,NA,,,9271826,,,,,
+TAP1,NA,TAP1,NA,,,9271827,,,,,
+TNF,NA,TNF,NA,,,17213876,,,,,
+SERPINE1,NA,SERPINE1,NA,,,18495745,,,,,
+NPHS1,NA,NPHS1,NA,,,20138859,,,,,
+IL6,NA,IL6,NA,,,20954977,,,,,
+STAT4,NA,STAT4,NA,,,21740896,,,,,
+ACE,NA,ACE,NA,,,24157068,,,,,
+AGT,NA,AGT,NA,,,24157068,,,,,
+NOS3,NA,NOS3,NA,,,24157068,,,,,
+PLA2R1,NA,PLA2R1,NA,,,21323541,,,,,
+PLA2R1,NA,PLA2R1,NA,,,23813219,,,,,
+PLA2R1,NA,PLA2R1,NA,,,20805699,,,,,
+PLA2R1,NA,PLA2R1,NA,,,23431073,,,,,
+Lrp2,NA,LRP2,NA,,,13645677,Rat,,,,
+Lrp2,NA,LRP2,NA,,,372233,Rat,,,,
+Lrp2,NA,LRP2,NA,,,6752952,Rat,,,,
+Lrp2,NA,LRP2,NA,,,6337231,Rat,,,,
+Lrp2,NA,LRP2,NA,,,9410908,Rat,,,,
+Lrp2,NA,LRP2,NA,,,8710917,Rat,,,,
+Lrp2,NA,LRP2,NA,,,10616840,Rat,,,,
+Lrpap1,NA,Lrpap1,NA,,,1280820,Rat,,,,
+Lrpap1,NA,Lrpap1,NA,,,7723231,Rat,,,,
+Lrpap1,NA,Lrpap1,NA,,,7778686,Rat,,,,
+Enpep,NA,ENPEP,NA,,,1740657,Mouse,,,,
+MME,NA,MME,NA,,,12087141,,,,,
+PLA2R1,NA,PLA2R1,NA,,,19571279,,,,,
+PLA2R1,NA,PLA2R1,NA,,,21566055,,,,,
+SOD2,NA,SOD1,NA,,,20150532,,,,,
+AKR1B1,NA,AKR1B1,NA,,,20150532,,,,,
+ENO1,NA,ENO1,NA,,,20150532,,,,,
+Col4a3,NA,COL4A3,NA,,,2237139,mouse,,,,
+ACE,NA,ACE,NA,,,10505686,pig,,,,
+P3H4,NA,P3H4,NA,,,23144993,,,,,
+IGHG4,NA,IGHG4,1,,,6383668,,,,,
+IGHG4,NA,IGHG4,1,,,8995742,,,,,
+IGHG4,NA,IGHG4,1,,,15464186,,,,,
+IGHG4,1,IGHG4,1,,,15954921,,,,,B cell
+IGHG4,NA,IGHG4,1,,,19571279,,,,,
+IGHG4,NA,IGHG4,1,,,20150532,,,,,
+IGHG4,NA,IGHG4,1,,,21631322,,,,,
+IGHG4,NA,IGHG4,1,,,20151159,,,,,
+IGHG1,NA,IGHG1,1,,,6383668,,,,,
+IGHG1,NA,IGHG1,1,,,15464186,,,,,
+IGHG1,NA,IGHG1,1,,,19571279,,,,,
+IGHG1,NA,IGHG1,1,,,20151159,,,,,
+IGHG1,NA,IGHG1,1,,,21631322,,,,,
+IGHG3,NA,IGHG3,1,,,23123401,,,,,
+Ighg1,NA,Ighg1,1,,,2237139,mouees,,,,
+Cr1l,NA,Cr1l,-1,,,1861077,Rat,,,,
+Cd59,NA,Cd59,-1,,,7534798,Rat,,,,
+Cd59a,NA,Cd59a,NA,,,14764738,NTS mouse,,,,
+Cd55,NA,Cd55,NA,,,14764738,NTS mouse,,,,
+CD46,NA,CD46,NA,,,,speculated,,,,
+CFH,NA,CFH,1,,,15331938,,,,,
+Cfh,NA,CFH,1,,,12911541,Rat,,,,
+C3,NA,C3,1,,,7440718,Rat,,,,
+C3,NA,C3,1,,,6383668,,,,,
+C3,NA,C3,1,,,22909298,,,,,
+C4d,NA,C4d,1,,,2644563,,,,,
+C4bp,NA,C4bp,1,,,2644563,,,,,
+C4d,NA,C4d,1,,,20151159,,,,,
+C4d,NA,C4d,1,,,21938676,,,,,
+C4BPA,NA,C4bp,1,,,2644563,,,,,
+C4BPB,NA,C4bp,1,,,2644563,,,,,
+CFB,NA,CFB,1,,,20151159,,,,,
+MBL2,NA,MBL,1,,,10328463,,,,,
+MBL2,NA,MBL,1,,,20151159,,,,,
+C1QA,NA,C1q,1,,,20151159,,,,,
+C1QB,NA,C1q,1,,,20151159,,,,,
+C1QC,NA,C1q,1,,,20151159,,,,,
+C1QA,NA,C1q,1,,,23328976,,,,,
+C1QB,NA,C1q,1,,,23328976,,,,,
+C1QC,NA,C1q,1,,,23328976,,,,,
+C8a,NA,C8,1,,,3514672,Rat,,,,
+C8b,NA,C8,1,,,3514672,Rat,,,,
+C8g,NA,C8,1,,,3514672,Rat,,,,
+C6,NA,C6,1,,,2672823,Rat,,,,
+C5,NA,MAC,1,,,2672823,Rat,,,,
+C7,NA,MAC,1,,,2672823,Rat,,,,
+C9,NA,MAC,1,,,2672823,Rat,,,,
+,,,,DAG,1,2511764,Rat,,,,
+,,,,IP3,1,2511764,Rat,,,,
+,,,,IP2,1,2511764,Rat,,,,
+,,,,AA,1,2511764,Rat,,,,
+,,,,Prostaglandin F2alpha,1,2511764,Rat,,,,
+,,,,thromboxane A2,1,2511764,Rat,,,,
+,,PLC,NA,NA,,2511764,Rat,,,,
+,,,,,,,,,,,
+Pdgfb,1,PDGFB,1,,,8434653,Rat,,,,
+Prkcg,NA,"protein kinase C, gamma",NA,,,7503241,Rat,,,,
+Pla2g4a,NA,Cytosolic phospholipase A2,NA,,,7503241,Rat,,,,
+,,,,AA,1,7503241,Rat,,,,
+,,,,PGE2,1,7503241,Rat,,,,
+,,,,DAG,1,7503241,Rat,,,,
+Fgf2,1,FGF2,1,,,8675651,Rat,,,,
+Mmp9,1,MMP9,1,,,8613533,Rat,,,,
+Tgfb2,1,TGF-beta 2,1,,,8807580,Rat,,,,
+Tgfb3,1,TGF-beta 3,1,,,8807580,Rat,,,,
+Tgfbr1,1,TGF-beta receptor type I,1,,,8807580,Rat,,,,
+Tgfbr3,1,TGF-beta receptor type II,1,,,8807580,Rat,,,,
+Col4a3,1,COL4a3,1,,,9625527,Rat,,,,
+Col4a5,1,COL4a5,1,,,9625527,Rat,,,,
+Col4a4,1,COL4a4,1,,,9625527,Rat,,,,
+Col1a1,1,COL1a1,1,,,9625527,Rat,,,,
+Col4a1,1,COL4a1,1,,,9625527,Rat,,,,
+Col4a2,1,COL4a2,1,,,9625527,Rat,,,,
+Actb,NA,Actin beta,1,,,10231439,Rat,,,,
+Pxn,NA,Paxillin,1,,,10231439,Rat,,,Phosphorilation up ,
+Agrn,NA,agrin,1,,,10446936,Rat,,,,
+Ptgs1,1,COX1,1,,,10854230,Rat,,,,
+Ptgs2,1,COX2,1,,,10854230,Rat,,,,
+,,,,AA,1,10854230,Rat,,,,
+,,,,PGE2,1,10854230,Rat,,,,
+Rela,NA,P65,1,,,11231347,Rat,,,activated up ,
+Nfkb1,NA,P50,1,,,11231347,Rat,,,activated up ,
+Mmp9,1,MMP9,1,,,11231347,Rat,,,,
+Il1b,1,IL-1 beta,1,,,11231347,Rat,,,,
+Mapk8,NA,JNK,NA,,,12193730,Rat,,,phophorilation up ,
+,,,,Superoxide,1,12193730,Rat,,,,
+Hspa5,1,BIP,1,,,12191998,Rat,,,,
+Hsp90b1,1,GRP94,1,,,12191998,Rat,,,,
+Pdia4,1,ERP-72,NA,,,12191998,Rat,,,,
+Mapk14,NA,P38,0,,,12837681,Rat,,,phophorilation up ,
+Mapkapk2,NA,MAPKAPK2,NA,,,12837681,Rat,,,phophorilation up ,
+Hspb1,NA,Hsp27,1,,,12837681,Rat,,,,
+Egfr,NA,EGFR,NA,,,10550326,Rat,,,phophorilation up ,
+Erbb2,NA,Neu,NA,,,10550326,Rat,,,phophorilation up ,
+Fgfr2,NA,FGFR2,NA,,,10550326,Rat,,,phophorilation up ,
+Met,NA,MET,NA,,,10550326,Rat,,,phophorilation up ,
+Mapk1,NA,ERK-2,NA,,,10550326,Rat,,,phophorilation up ,
+,,,,AA,1,10550326,Rat,,,,
+,,,,PGE2,1,10550326,Rat,,,,
+Nphs1,NA,nephrin,-1,,,14633129,Rat,,,,
+Tp53,NA,p53,1,,,12639994,Rat,Mouse,,,
+Kras,NA,p21,1,,,12639994,Rat,Mouse,,,
+Gadd45a,NA,GADD45,1,,,12639994,Rat,Mouse,,,
+Chek1,NA,CHK-1,1,,,12639994,Rat,Mouse,,phophorilation up ,
+Chek2,NA,CHK-2,1,,,12639994,Rat,Mouse,,phophorilation up ,
+Mapk1,NA,ERK-2,NA,,,12639994,Rat,Mouse,,phophorilation up ,
+Mapk3,NA,ERK-1,NA,,,12639994,Rat,Mouse,,phophorilation up ,
+Hpse,NA,heparanase,1,,,14694159,Rat,,,,
+Mapk3,NA,ERK-1,NA,,,15855657,Rat,,,phophorilation up ,
+Mapk1,NA,ERK-2,NA,,,15855657,Rat,,,phophorilation up ,
+Mapkapk2,NA,MAPKAPK2,NA,,,15855657,Rat,,,phophorilation up ,
+Pla2g4a,NA,cPLA2,NA,,,15855657,Rat,,,phophorilation up ,
+Nphs1,-1,Nephrin,-1,,,15882266,Rat,,,,
+Nphs2,-1,Podocin,-1,,,15882266,Rat,,,,
+Cd2ap,-1,CD2AP ,-1,,,15882266,Rat,,,,
+Trpc6,NA,TRPC6,1,,,17167110,Rat,mouse,human,,
+Mapk3,NA,ERK-1,0,,,24194522,,,,phophorilation up ,
+Mapk1,NA,ERK-2,0,,,24194522,,,,phophorilation up ,
+Camk2a,NA,CaMKII,0,,,24194522,,,,phophorilation up ,
+TRPC6,NA,TRPC6,1,,,24194522,,,,,
+Ifng,1,IFN-gamma,NA,,,9815255,Rat,,,,infiltrated cells
+Lta,1,TNF-beta,NA,,,9815255,Rat,,,,infiltrated cells
+Gzmb,1,GrB,NA,,,9815255,Rat,,,,infiltrated cells
+Prf1,1,Peforin,NA,,,9815255,Rat,,,,infiltrated cells
+Il10,1,IL-10,NA,,,9815255,Rat,,,,infiltrated cells
+Il12b,1,IL-12,NA,,,9815255,Rat,,,,infiltrated cells
+Tnf,1,TNFalpha,NA,,,9815255,Rat,,,,infiltrated cells
+Nos2,1,iNOS,NA,,,9815255,Rat,,,,infiltrated cells
+Itga3,NA,alpha 3-integrin,-1,,,19662603,Rat,,,,podocyte
+Actb,NA,Actin,1,,,19662603,Rat,,,,podocyte
+C3,NA,C3,1,,,7901586,Human,,,,
+C3,1,C3,1,,,10620195,Human,,,,cortical tubular 
+C3,1,C3,NA,,,10620195,Human,,,,glomerular parietal epithelial 
+CR1,NA,CR1,-1,,,11135068,Human,,,,podcyte
+Cyp2b1,0,CYP2B1,-1,,,20947506,Rat,,,,GEC
+Gsn,0,gelsolin ,-1,,,20947506,Rat,,,,GEC
+CXCR1,NA,CXCR1,1,,,12055238,Human,,,,podocyte
+CXCR3,NA,CXCR3,1,,,12055238,Human,,,,podocyte
+CXCR5,NA,CXCR5,1,,,12055238,Human,,,,podocyte
+BCAR1,NA,P130CAS,1,,,9422981,Human,,,,podocyte
+ITGA2,NA,alpha 2 integrin ,1,,,9422981,Human,,,,podocyte
+ITGA5,NA,alpha 5 integrin ,1,,,9422981,Human,,,,podocyte
+VCAM1,NA,VCAM-1,-1,,,9551397,Human,,,,glomerular parietal epithelial 
+VCAM1,NA,VCAM-1,1,,,9551397,Human,,,,interstitium
+Pecam1,NA,PECAM-1,1,,,9551397,Human,,,,interstitium
+Pecam1,NA,PECAM-1,-1,,,9551397,Human,,,,glomerular endothelial cells 
+SELE,NA,E-selectin,1,,,9551397,Human,,,,Interstitial peritubular capillaries 
+SELE,NA,E-selectin,1,,,9551397,Human,,,,glomerular endothelial cells 
+ICAM1,NA,ICAM1,1,,,9551397,Human,,,,interstitial mononuclear cells
+ICAM1,NA,ICAM1,1,,,9551397,Human,,,,tubular
+ITGAL,NA,LFA-1,1,,,9551397,Human,,,,interstitial mononuclear cells
+ITGB2,NA,MAC-1,1,,,9551397,Human,,,,interstitial mononuclear cells
+TNF,NA,TNF-alpha,1,,,9551397,Human,,,,Urine
+CMIP,1,c-Mip,1,,,23302718,Human,Rat,,,podocyte
+RHOA,NA,RhoA,1,,,23302718,Human,Rat,,,podocyte
+ILK,1,ILK,1,,,23302718,Human,Rat,,,podocyte
+DAPK1,1,DAPK,1,,,23302718,Human,Rat,,,podocyte
+SYNPO,NA,synaptopodin,-1,,,23302718,Human,Rat,,,podocyte
+Kras,NA,Ras,NA,,,19138568,Rat,,,,
+LAMA1,NA,laminin A chain,1,,,10050082,Human,,,,
+CXCL16,NA,CXCL16,1,,,19435795,Human,,,,glomeruli
+ADAM10,NA,ADAM10,-1,,,19435795,Human,,,,glomeruli
+APOB,NA,ox-LDL,1,,,19435795,Human,,,,glomeruli
+ADAM17,NA,ADAM17,1,,,19435795,Human,,,,glomeruli
+ITGB1,NA,Beta 1 integrin,NA,,,10383701,Human,,,redistribution,podocyte
+VCL,NA,Vinculin,NA,,,10383701,Human,,,redistribution,podocyte
+PXN,NA,Paxillin,NA,,,10383701,Human,,,redistribution,podocyte
+TLN1,NA,Talin,NA,,,10383701,Human,,,redistribution,podocyte
+NPHS1,NA,nephrin,-1,,,11337370,Human,,,redistribution,podocyte
+Ptpro,-1,GLEPP1,NA,,,17457373,Rat,,,,podocyte
+Cd80,1,B7.1,NA,,,17457373,Rat,,,,podocyte
+Cd81,1,B7.1,NA,,,17457373,Rat,,,,infiltrated cells
+Nphs1,-1,nephrin,NA,,,17457373,Rat,,,,podocyte
+Fat1,-1,FAT1,NA,,,17457373,Rat,,,,podocyte
+Col4a3,-1,COL4A3,NA,,,17457373,Rat,,,,podocyte
+Col4a4,-1,COL4A4,NA,,,17457373,Rat,,,,podocyte
+Agrn,-1,agrin,NA,,,17457373,Rat,,,,podocyte
+Wt1,-1,WT1,-1,,,17457373,Rat,,,,podocyte
+Lmx1b,-1,LMX1B,NA,,,17457373,Rat,,,,podocyte
+Lrp2,-1,Megalin,NA,,,17457373,Rat,,,,podocyte
+Itgb1,-1,Beta 1-Integrin,NA,,,17457373,Rat,,,,podocyte
+Vegfa,-1,VEGFA,NA,,,17457373,Rat,,,,podocyte
+Zhx1,-1,ZHX1,-1,,,17457373,Rat,,,,podocyte
+Zhx2,1,ZHX2,1,,,17457373,Rat,,,,podocyte
+Zhx3,1,ZHX3,1,,,17457373,Rat,,,,podocyte
+Ptprc,1,CD45,NA,,,17457373,Rat,,,,infiltrated cells
+Angpt1,-1,Angiopoietin 1,NA,,,17457373,Rat,,,,infiltrated cells
+Podxl,-1,Podocalyxin,NA,,,17457373,Rat,,,,infiltrated cells
+Dag1,-1,Dystroglycan,NA,,,17457373,Rat,,,,infiltrated cells
+NOTCH1,NA,NOTCH1,1,,,20531454,Human,,,,podocyte
+NOTCH2,NA,NOTCH2,1,,,20531454,Human,,,,podocyte
+JAG1,NA,JAGGED1,1,,,20531454,Human,,,,podocyte
+NRP2,1,NRP2,NA,,,19736548,Human,,,,intersitium
+ITGA3,NA,integrin alpha 3,-1,,,11773463,Human,,,,glomeruli
+ITGA3,NA,integrin alpha 3,1,,,11773463,Human,,,,tubular cells
+ICAM1,NA,ICAM1,-1,,,11773463,Human,,,,glomeruli
+ICAM1,NA,ICAM1,1,,,11773463,Human,,,,tubular cells
+HLA-DRB1,NA,HLA-DRB1,1,,,11773463,Human,,,,intersitial infiltrated cell
+CD3E,NA,CD3,1,,,11773463,Human,,,,intersitial infiltrated cell
+CD68,NA,CD68,1,,,11773463,Human,,,,intersitial infiltrated cell
+ITGB2,NA,CD18,1,,,11773463,Human,,,,intersitial infiltrated cell
+C8A,NA,C8,1,,,11773464,Human,,,,tubular
+C8B,NA,C8,1,,,11773465,Human,,,,
+C8G,NA,C8,1,,,11773466,Human,,,,
+C6,NA,C6,1,,,11773467,Human,,,,
+C5,NA,MAC,1,,,11773468,Human,,,,
+C7,NA,MAC,1,,,11773469,Human,,,,
+C9,NA,MAC,1,,,11773470,Human,,,,
+Hbegf,1,HB-EGF ,1,,,9573530,Rat,,,,glomeruli
+TNF,NA,TNFalpha,1,,,9443093,Human,,,,Serum
+FN1,NA,Fibronectin,1,,,9443093,Human,,,,Serum
+IL10,NA,IL10,1,,,12053062,Human,,,,IL10 producing CD4+ T cell
+SERPINE1,1,PAI1,NA,,,11920334,Human,,,,glomeruli
+Des,NA,desmin,1,,,20375980,Rat,,,,podocyte
+LCN2,NA,NGAL,1,,,18753796,Human,,,,Urine
+Uchl1,1,UCHL1,1,,,21514420,Rat,Mouse,,,podocyte
+Rps27a,NA,Ubiquitin,1,,,21514420,Rat,Mouse,,,podocyte
+IL10,1,IL10,NA,,,15954921,Human,,,,PBMC
+IL13,1,IL13,NA,,,15954921,Human,,,,PBMC
+FCGRT,0,FCRn,1,,,22455882,Human,Rat,,,podocyte
+MMP2,NA,MMP2,1,,,17186329,Human,,,,serum
+MMP2,NA,MMP2,1,,,17186329,Human,,,,glomerular capillary loop 
+MMP2,NA,MMP2,1,,,17186329,Human,,,,mesangium
+MMP9,NA,MMP9,1,,,17186329,Human,,,,plasma
+TIMP1,NA,TIMP1,1,,,17186329,Human,,,,serum
+TGFB1,NA,TGF beta 1,1,,,17186329,Human,,,,glomerular capillary loop 
+PDGFC,1,PDGFC,1,,,12707385,Human,,,,podocyte
+Synpo,NA,SYNAPTOPODIN,1,,,20007346,Rat,,,,parietal epithelial cell
+Wt1,NA,WT1,1,,,20007346,Rat,,,,parietal epithelial cell
+PLA2G6,NA,iPLA2 beta,NA,,,18171998,Human,,,,
+PNPLA8,NA,iPLA2 gamma,NA,,,18171998,Human,,,,
+,,,,AA,1,18171998,Human,,,,
+,,,,PGE2,1,18171998,Human,,,,
+CCL2,1,MCP1,1,,,10620196,Human,,,,tubular epithelial cells
+CCL5,1,RANTEs,1,,,10620196,Human,,,,tubular epithelial cells
+SPP1,NA,OPN,1,,,10620196,Human,,,,tubular epithelial cells
+TGFB1,1,TGF beta 1,NA,,,10620196,Human,,,,tubular epithelial cells
+PDGFB,1,PDGF-BB,1,,,10620196,Human,,,,tubular epithelial cells
+NFKB1,NA,p50,1,,,11576350,Human,,,activated,
+RELA,NA,p65,1,,,11576350,Human,,,activated,
+JUN,NA,AP-1,1,,,11576350,Human,,,activated,
+FOS,NA,AP-1,1,,,11576350,Human,,,activated,
+CCL2,1,MCP1,1,,,11576350,Human,,,,tubular epithelial cells
+CCL5,1,RANTEs,1,,,11576350,Human,,,,tubular epithelial cells
+SPP1,NA,OPN,1,,,11576350,Human,,,,tubular epithelial cells
+CCL2,1,MCP1,1,,,11576350,Human,,,,glomeruli
+CCL5,1,RANTEs,1,,,11576350,Human,,,,glomeruli
+SPP1,NA,OPN,1,,,11576350,Human,,,,glomeruli
+TGFB1,1,TGF beta 1,NA,,,11576350,Human,,,,tubular epithelial cells
+IL4,NA,IL4,1,,,14767012,Human,,,,peripheral Th cell
+DES,NA,Desmin,1,,,17722705,Human,,,,podocyte
+NPHS1,NA,nephrin,-1,,,17722706,Human,,,,podocyte
+TGFB1,1,TGF beta 1,NA,,,10547606,Human,,,,GECs
+COL4A1,1,COL4A1,NA,,,10547606,Human,,,,GECs
+COL4A4,1,COL4A4,NA,,,10547606,Human,,,,GECs
+FN1,1,Fibronectin,NA,,,10547606,Human,,,,GECs
+,1,S-Laminin,NA,,,10547606,Human,,,,GECs
+Podxl,NA,podocalyxin ,-1,,,21106221,Human,,,,podocyte
+VEGFA,-1,VEGF165,-1,,,14655184,human,,,,podocyte
+TGFB1,NA,TGF beta 1,1,,,9430852,human,,,,urine
+CLU,NA,clusterin,-1,,,12427144,human,,,,serum
+CLU,NA,clusterin,-1,,,12427144,human,,,,urine
+CLU,NA,clusterin,1,,,12427144,human,,,,podocyte
+CFP,NA,properdin,1,,,18753294,human,,,,tubules
+C3,NA,C3,1,,,14652883,human,,,,urine
+C8A,NA,C8,1,,,14652883,human,,,,urine
+C8B,NA,C8,1,,,14652883,human,,,,urine
+C8G,NA,C8,1,,,14652883,human,,,,urine
+C6,NA,C6,1,,,14652883,human,,,,urine
+C5,NA,MAC,1,,,14652883,human,,,,urine
+C7,NA,MAC,1,,,14652883,human,,,,urine
+C9,NA,MAC,1,,,14652883,human,,,,urine
+TNFRSF12A,1,Fn14,1,,,23999007,Human,Mouse,,,podocyte
+CCL2,1,MCP1,1,,,23999007,Human,Mouse,,,podocyte
+NFKB1,NA,p50,NA,,,23999007,Human,Mouse,,activated,podocyte
+RELA,NA,p65,NA,,,23999007,Human,Mouse,,activated,podocyte
+EDNRB,NA,ET-B receptor,1,,,16928614,Human,,,,tubular epithelial cells
+EDN1,NA,ET-1,1,,,16928614,Human,,,,urine
+Plcg1,NA,PLCgamma1,NA,,,9690202,Rat,,,,GECs
+Prkcg,NA,PKC,NA,,,9690202,Rat,,,,GECs
+Mapk1,NA,ERK2,NA,,,9690202,Rat,,,,GECs
+Serpine1,NA,Plasminogen K 5,1,,,21128779,Mouse,,,,glomeruli
+Pecam1,NA,CD31,1,,,21128780,Mouse,,,,glomeruli endothelial cells
+CCL5,1,RANTEs,NA,,,16555943,Human,,,,
+Mtor,NA,mTOR,1,,,23667674,Rat,,,,podocyte
+Map1lc3a,NA,LC3II,-1,,,23667674,Rat,,,,podocyte
+Map1lc3b,NA,LC3II,-1,,,23667674,Rat,,,,podocyte
+Map1lc3a,NA,LC3II,1,,,23667674,Rat,,,,podocyte
+Map1lc3b,NA,LC3II,1,,,23667674,Rat,,,,podocyte
+Hspa5,NA,GRP78,1,,,22595305,Rat,,,,podocyte
+Hsp90b1,NA,GRP94,1,,,22595305,Rat,,,,podocyte
+Map1lc3a,NA,LC3,1,,,22595305,Rat,,,,podocyte
+Map1lc3b,NA,LC3,1,,,22595305,Rat,,,,podocyte
+PECAM1,NA,PECAM1,-1,,,12552497,Human,,,,glomerular endothelial cells
+PECAM1,NA,PECAM1,1,,,12552497,Human,,,,tubular epithelial cells
+VEGFA,NA,VEGF,-1,,,12552498,Human,,,,tubular epithelial cells
+TYMP,NA,TP,-1,,,12552499,Human,,,,tubular epithelial cells
+B2M,NA,beta-2-microglobulin ,1,,,22595828,Human,,,,urine
+AMBP,NA,alpha 1-microglobulin,1,,,22595828,Human,,,,urine
+TGM2,NA,TG2,1,,,23107829,Human,,,,tubulointerstitium
+TGM2,NA,TG2,1,,,23107829,Human,,,,mesangium
+C5,1,C5aR,1,,,11422745,Human,,,,mesangial cells
+C5,1,C5aR,1,,,11422745,Human,,,,podocyte
+C5,1,C5aR,1,,,11422745,Human,,,,enothelial cells
+CXCL8,-1,IL8E/M,1,,,15168378,Human,,,,podocytes
+CXCL8,-1,IL8E/M,1,,,15168378,Human,,,,endothelial cells of interstitial vessels
+ACE,NA,ACE,1,,,12969126,Human,,,,interstitial cells
+AGT,NA,AngII,1,,,12969126,Human,,,,tubules
+AGT,NA,AngII,1,,,12969126,Human,,,,infiltrating interstitial cells
+TGFB1,1,TGF beta ,NA,,,12969126,Human,,,,cortical tubular epithelial cells
+PDGFB,1,PDGF-BB,NA,,,12969126,Human,,,,cortical tubular epithelial cells
+ACTA2,NA,alpha SMA,1,,,12969127,Human,,,,interstitial myofibroblast
+ALOX5,1,5-LO,1,,,10337029,Human,,,,interstitial cells
+ALOX5,1,5-LO,1,,,10337029,Human,,,,infiltrating interstitial cells
+,,,,LTD4,1,8386188,Rat,,,,
+,,,,LTB4,1,8386188,Rat,,,,
+,,,,LTB4,1,2557484,Rat,,,,
+MC1R,NA,MC1R,NA,,,20507942,Human,,,,
+TNF,1,TNFalpha,1,,,7778683,Human,,,,podocyte
+TNF,NA,TNFalpha,1,,,7778683,Human,,,,urine
+Ccna1,NA,Cyclin A,-1,,,22426620,Rat,,,,GECs
+Rps27a,0,ubiquitin,1,,,22426620,Rat,,,,GECs
+DCN,NA,decorin,1,,,14964452,Human,,,,urine
+ADM,NA,Adrenomodulin,1,,,9736825,Human,,,,plasma
+ADM,NA,Adrenomodulin,-1,,,9736825,Human,,,,urine
+NAGLU,NA,NAG,1,,,15503426,Human,,,,urine
+NAGLU,NA,NAGB,1,,,15503426,Human,,,,urine
+GUSB,NA,beta-GR,1,,,15503427,Human,,,,urine
+Eif2ak3,NA,PERK,NA,,,15863508,Rat,,,phophorilation up ,GECs
+Eif2a,NA,eIF2 alpha_x0001_,NA,,,15863509,Rat,,,phophorilation up ,GECs
+IGHG4,NA,IgG4,1,,,15211436,Human,,,,serum
+IGHG4,NA,IgG4,1,,,15211436,Human,,,,glomeruli
+IL4,NA,IL4,1,,,15211437,Human,,,,serum
+IL4,1,IL4,1,,,23920047,Human,,,,
+IL5,1,IL5,1,,,23920047,Human,,,,
+IL10,1,IL10,1,,,23920047,Human,,,,
+TGFB1,1,TGFB1,1,,,23920047,Human,,,,
+FOXP3,1,FOXP3,1,,,23920047,Human,,,,
+NPHS1,NA,nephrin,-1,,,11865096,Human,,,,podocyte
+Hp,NA,haptoglobin,1,,,17616219,Rat,,,,urine
+PTGS2,NA,Cox2,1,,,18459455,Human,,,,glomerular capillary loops
+PTGS2,NA,Cox2,1,,,18459455,Human,,,,PECs
+PTGS2,NA,Cox2,1,,,18459455,Human,,,,tubular epithelial cells
+PTGS2,NA,Cox2,1,,,18459455,Human,,,,intersitium
+CD68,NA,CD68,1,,,18459455,Human,,,,macrophage infiltrate
+CD3E,NA,CD3,1,,,18459455,Human,,,,T cell infiltrate
+MS4A1,NA,CD20,1,,,18459455,Human,,,,
+Pla2g4a,NA,cPLA2,NA,,,10720957,Rat,,,,
+PCNA,1,PCNA,1,,,9690098,Rat,Human,,,Podocytes
+Hist1h2bl,1,Histone 2b,NA,,,9690098,Rat,Human,,,Podocytes
+Hist3h3,1,Histone 3,NA,,,9690098,Rat,Human,,,Podocytes
+Hist1h4b,1,Histone 4,NA,,,9690098,Rat,Human,,,Podocytes
+HIST1H2BL,1,Histone 2b,NA,,,11168933,Human,,,,Tubular cells
+HIST3H3,1,Histone 3,NA,,,11168933,Human,,,,Tubular cells
+HIST1H4B,1,Histone 4,NA,,,11168933,Human,,,,Tubular cells
+VTCN1,1,B7-H4,1,,,17051145,Human,,,,Tubular epithelial cells
+MS4A1,1,CD20,1,,,16013025,Human,,,,interstitial infiltrating B cell
+Ptger3,1,EP3,NA,,,14636300,Rat,,,,Cortex
+,1,laminin,NA,,,14636300,Rat,,,,mesangial cells
+,,,,bicyclo-PGE2,1,14636300,Rat,,,,urine
+ACTA2,NA,alpha -SMA,1,,,10543323,Human,,,,Interstitium
+Tgfb1,1,TGF beta 1,NA,,,9016898,Rat,,,,
+Fn1,1,Fibronectin ,NA,,,9016898,Rat,,,,
+LAMC1,1,laminin B2 chain,NA,,,9016898,Rat,,,,
+Col4a1,1,Collagen IV,NA,,,9016898,Rat,,,,
+COL4A4,NA,Col4a4,1,,,9370941,Human,,,,GBM
+,,laminin,1,,,9370941,Human,,,,GBM
+FN1,NA,fibronectin,1,,,9370941,Human,,,,GBM
+PDLIM2,NA,PDLIM2,-1,,,21814175,Human,,,,podocyte
+RPSA,1,Lamr-1,1,,,21234329,Human,Mouse,,,glomeruli
+CTSD,1,CtsD,1,,,21234329,Human,Mouse,,,intersitial
+CTSD,1,CtsD,1,,,21234329,Human,Mouse,,,glomeruli
+Mt1,1,Mt1,1,,,21234329,Mouse,,,,tubules
+Ly6e,1,Ly6e,NA,,,21234329,Mouse,,,,Lymphocytes
+LAMA5,NA,Laminin alpha5,1,,,22343787,Human,,,,
+LAMB2,NA,Laminin beta2,1,,,22343787,Human,,,,
+LAMC1,NA,Laminin gamma1,1,,,22343787,Human,,,,
+H2-Q1,NA,HLA-E,1,,,22491420,Rat,,,,T cells
+C8A,NA,C8,1,,,8587257,Human,,,,urine
+C8B,NA,C8,1,,,8587257,Human,,,,urine
+C8G,NA,C8,1,,,8587257,Human,,,,urine
+C6,NA,C6,1,,,8587257,Human,,,,urine
+C5,NA,MAC,1,,,8587257,Human,,,,urine
+C7,NA,MAC,1,,,8587257,Human,,,,urine
+C9,NA,MAC,1,,,8587257,Human,,,,urine
+Lrp2,NA,"Megalin
+",1,,,11004703,Rat,,,,GECs
+NEU1,NA,sialidase,1,,,19755471,Human,,,,Glomeruli
+NEU1,NA,sialidase,1,,,19755471,Human,,,,urine
+ACTN4,NA,alpha -actinin4,1,,,15031339,Human,,,,Podocyte
+Arhgap35,NA,p190RhoGAP,-1,,,17376765,Rat,,,,GECs
+Rhoa,NA,GTP-bound RhoA,1,,,17376765,Rat,,,,GECs
+Rac1,NA,GTP-bound Rac1,-1,,,17376765,Rat,,,,GECs
+Cdc42,NA,GTP-bound Cdc42,-1,,,17376765,Rat,,,,GECs
+Map3k5,NA,ASK1,1,,,18178252,Rat,,,,GECs
+NPHS2,-1,Podocin,NA,,,14569107,Human,,,,Podocytes
+SP1,NA,SP1,1,,,20199187,Human,,,,glomeruli
+SP1,NA,SP1,1,,,20199187,Human,,,,Proximal tubules
+SMAD2,NA,SMAD2,1,,,20199187,Human,,,,Proximal tubules
+SMAD3,NA,SMAD3,1,,,20199187,Human,,,,Proximal tubules
+EP300,NA,P300,1,,,20199187,Human,,,,Proximal tubules
+,,,,Reactive oxygen species,1,22083176,Mouse,,,,Glomeruli
+Rela,NA,P65,NA,,,22083176,Mouse,,,phophorilation up ,Glomeruli
+Nfkb1,NA,P50,NA,,,22083176,Mouse,,,phophorilation up ,Glomeruli
+TNFRSF1A,NA,cTNFR1,1,,,25098821,Human,,,,
+TNFRSF1B,NA,cTNFR2,1,,,25098821,Human,,,,
+TNFRSF1A,1,TNFR1,1,,,25098821,Human,,,,glomeruli
+TNFRSF1A,1,TNFR1,1,,,25098821,Human,,,,tubule
+TNFRSF1B,1,TNFR2,1,,,25098821,Human,,,,tubule
+TRPC6,NA,TRPC6,NA,,,25019165,Human,,,,
+VTN,NA,vitronectin,1,,,8959637,Human,,,,
+PLAT,NA,tPA,1,,,8959637,Human,,,,
+SERPINE1,NA,PAI-1,1,,,8959637,Human,,,,
+IL2RA,NA,IL-2R,1,,,2382679,Human,,,,serum
+C3,NA,C3,1,,,1387434,Human,,,,urine
+C8A,NA,C8,1,,,1387434,Human,,,,urine
+C8B,NA,C8,1,,,1387434,Human,,,,urine
+C8G,NA,C8,1,,,1387434,Human,,,,urine
+C6,NA,C6,1,,,1387434,Human,,,,urine
+C5,NA,MAC,1,,,1387434,Human,,,,urine
+C7,NA,MAC,1,,,1387434,Human,,,,urine
+C9,NA,MAC,1,,,1387434,Human,,,,urine
+FN1,NA,fibronectin,1,,,8459880,Human,,,,plasma
+FN1,NA,fibronectin,1,,,8459880,Human,,,,glomeruli
+,,,,non-Heme iron,1,8866411,Rat,,,,Urine
+CD4,NA,CD4,1,,,7970087,Human,,,,intersitium
+CD8A,NA,CD8,1,,,7970087,Human,,,,intersitium
+CD68,NA,CD68,1,,,7970087,Human,,,,intersitium
+HLA-DRB1,NA,HLA-DRB1,1,,,7970087,Human,,,,intersitium
+Mapk8,NA,JNK,NA,,,22086717,Mouse,,,phophorilation up ,Podocytes
+Mapk1,NA,ERK-2,NA,,,22086717,Mouse,,,phophorilation up ,Podocytes
+Mapk3,NA,ERK-1,NA,,,22086717,Mouse,,,phophorilation up ,Podocytes
+CD68,NA,CD68,1,,,15361701,Human,,,,interstitial monocyte/macrophages&foam cells
+CCL2,NA,MCP1,1,,,15361701,Human,,,,interstitial monocyte/macrophages&foam cells
+CCR1,1,CCR1,1,,,15361701,Human,,,,interstitial monocyte/macrophages&foam cells
+ACTA2,NA,alphaSMA,1,,,15361701,Human,,,,periglomeruli interstitial
+CD68,NA,CD68,1,,,11157381,Human,,,,interstitium
+ACTA2,NA,alphaSMA,1,,,11157381,Human,,,,interstitium
+PTPRC,NA,CD45RO,1,,,11157381,Human,,,,interstitium
+,NA,Collagen VI ,1,,,11157381,Human,,,,interstitium
+,NA,Collagen IV,1,,,11157381,Human,,,,interstitium
+,,,,Reactive oxygen species,1,22288898,Mouse,,,,
+Hmox1,1,HO-1,1,,,22288898,Mouse,,,,glomeruli
+Il1b,1,IL-1 beta ,NA,,,22288898,Mouse,,,,
+Ifng,1,IFN gamma,NA,,,22288898,Mouse,,,,
+Il2,1,IL-2,NA,,,22288898,Mouse,,,,
+Il4,1,IL-4,NA,,,22288898,Mouse,,,,
+Il10,1,IL-10,NA,,,22288898,Mouse,,,,
+Il4,1,IL-4,1,,,17622271,Mouse,,,,CD4+Th2 T cell
+Ifng,1,IFNgamma,1,,,17622271,Mouse,,,,CD8 T cells
+Il2,1,IL-2,NA,,,17622271,Mouse,,,,
+Il1b,1,IL-1 beta ,NA,,,17622271,Mouse,,,,
+Il10,1,IL-10,NA,,,17622271,Mouse,,,,
+Tnf,1,TNFalpha,NA,,,17622271,Mouse,,,,
+NT5E,NA,5’nucleotidase,1,,,12187107,Human,,,,mesangium
+CLU,NA,clusterin,1,,,16775601,Human,,,,glomeruli
+PRKCA,NA,PKC alpha,NA,,,16775601,Human,,,phophorilation up ,podocyte
+PRKCB,NA,PKC beta,NA,,,16775601,Human,,,phophorilation up ,podocyte
+CD59,NA,CD59,1,,,7543624,Human,,,,urine
+CD59,NA,CD59,-1,,,7543624,Human,,,,glomeruli
+COL4A3,NA,COL4A3,1,,,8017478,Human,,,,GBM
+SDC2,NA,HS-PG,1,,,8017478,Human,,,,
+,,Laminin,1,,,8017478,Human,,,,
+Fgfr2,NA,FGFR2,1,,,8675651,Rat,,,,podocyte
+Des,NA,desmin,1,,,8675651,Rat,,,,podocyte
+COL4A3,NA,COL4A3,1,,,8611347,Human,,,,ECM
+COL4A4,NA,COL4A4,1,,,8611347,Human,,,,ECM
+COL4A5,NA,COL4A5,1,,,8611347,Human,,,,ECM
+COL6A1,NA,COL6,1,,,8611347,Human,,,,ECM
+COL6A2,NA,COL6,1,,,8611347,Human,,,not sure,ECM
+COL6A3,NA,COL6,1,,,8611347,Human,,,not sure,ECM
+LAMA1,NA,Laminin,1,,,8169750,Human,,,not sure,GBM
+LAMC3,NA,Laminin,1,,,8169750,Human,,,not sure,GBM
+LAMA2,NA,Laminin,1,,,8169750,Human,,,not sure,GBM
+LAMB1,NA,Laminin,1,,,8169750,Human,,,not sure,GBM
+LAMB2,NA,Laminin,1,,,8169750,Human,,,not sure,GBM
+LAMC1,NA,Laminin,1,,,8169750,Human,,,not sure,GBM
+LAMC2,NA,Laminin,1,,,8169750,Human,,,not sure,GBM
+COL4A3,NA,COL4A3,1,,,8169750,Human,,,,GBM
+SDC2,NA,HPG,1,,,8169750,Human,,,,GBM
+COL4A1,NA,COL4A1,1,,,8169750,Human,,,,subendothelial
+COL4A2,NA,COL4A2,1,,,8169750,Human,,,,subendothelial
+FN1,NA,Fibronectin,1,,,8169750,Human,,,,subendothelial
+SERPINA1,NA,a1-antitripsin,1,,,7542398,Human,,,,plasma
+HP,NA,Haptoglobin,1,,,7542398,Human,,,,plasma
+VIM,NA,Vimentin,1,,,9639037,Human,,,,interstitium
+VIM,NA,Vimentin,-1,,,9639037,Human,,,,glomeruli
+ACTA2,NA,alpha SMA,1,,,9639037,Human,,,,interstitium
+ACTA2,NA,alpha SMA,1,,,9639037,Human,,,,mesangium
+CTSB,NA,CathepsinB,NA,,,9879598,Human,,,activity up ,urine
+,NA,collagenase,NA,,,9879598,Human,,,activity up ,urine
+TGFBI,NA,TGF beta 1,1,,,9879598,Human,,,,urine
+FN1,NA,Fibronectin,1,,,9879598,Human,,,,urine
+ACTA2,NA,alpha SMA,1,,,9155692,Human,,,,interstitium
+PTPRC,NA,CD45,1,,,8666684,Human,,,,glomeruli
+ITGAX,NA,CD11c,1,,,8666684,Human,,,,glomeruli
+CD4,NA,CD4,1,,,8666684,Human,,,,interstitium
+CD8A,NA,CD8,1,,,8666684,Human,,,,interstitium
+CD3E,NA,CD3,1,,,8666684,Human,,,,interstitium
+Nphs1,-1,Nephrin,-1,,,11316852,Rat,,,,podocyte
+Tjp1,-1,Zo-1,-1,,,11316852,Rat,,,,podocyte
+MAPK14,NA,P38,NA,,,15987752,Human,,,,podocyte
+Ret,1,Ret 9,1,,,16672314,Rat,,,,podocyte
+Nphs1,NA,Nephrin,-1,,,11912254,Rat,,,,podocyte
+TGFBI,1,TGF-beta 1 ,1,,,8441250,Human,,,,GBM
+TGFBI,1,TGF-beta 1 ,1,,,8441250,Human,,,,mesangium
+IL1B,NA,IL-1 beta,1,,,7870341,Human,,,,urine
+TNF,NA,TNFalpha,1,,,7870341,Human,,,,urine
+IL6,NA,IL6,1,,,7870341,Human,,,,urine
+C8A,NA,C8,1,,,7870341,Human,,,,urine
+C8B,NA,C8,1,,,7870341,Human,,,,urine
+C8G,NA,C8,1,,,7870341,Human,,,,urine
+C6,NA,C6,1,,,7870341,Human,,,,urine
+C5,NA,MAC,1,,,7870341,Human,,,,urine
+C7,NA,MAC,1,,,7870341,Human,,,,urine
+C9,NA,MAC,1,,,7870341,Human,,,,urine
+Klk1,-1,Kallikrein,0,,,8349789,Rat,,,,kidney
+Klk1,NA,Kallikrein,-1,,,8349789,Rat,,,,urine
+Ren,-1,renin,0,,,8349789,Rat,,,,kidney
+CD59,NA,CD59,1,,,1709070,Human,,,,glomeruli
+PTER,1,PTER,1,,,24750591,Human,Mouse,,,proximal tubular cells
+Slc9a1,NA,NHE1,-1,,,24566932,Rat,,,,podocyte
+Hspa5,NA,GRP78,1,,,24566932,Rat,,,,podocyte
+Hsp90b1,NA,GRP94,1,,,24566932,Rat,,,,podocyte
+Canx,NA,calnexin,1,,,24566932,Rat,,,,podocyte
+ANGPTL4,1,Angptl4,1,,,25165975,Human,Rat,,,podocyte
+Clta,NA,clathrin,-1,,,1708948,Rat,,,,proximal tubular
+Lrp2,NA,GP330,-1,,,1708948,Rat,,,,proximal tubular
+,NA,proton-pumping adenosine triphosphatase,-1,,,1708948,Rat,,,,proximal tubular
+Mki67,NA,Ki67,1,,,23107969,Rat,,,,PECs
+SOD3,NA,EC-SOD,-1,,,25644107,Human,,,,
+FCGRT,NA,FCRn,NA,,,24357670,Human,,,,Podocytes
+Col1a1,1,type I collagen,1,,,8433551,Rat,,,,glomeruli

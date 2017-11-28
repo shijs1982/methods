@@ -1,0 +1,19 @@
+Term,Count,PValue
+GO:0000279~M   phase,22,6.26E-20
+GO:0022403~cell   cycle phase,22,7.09E-18
+GO:0007049~cell   cycle,27,7.37E-18
+GO:0022402~cell   cycle process,22,3.9E-15
+GO:0007067~mitosis,15,2.48E-13
+GO:0000280~nuclear   division,15,2.48E-13
+GO:0000087~M   phase of mitotic cell cycle,15,3.18E-13
+GO:0048285~organelle   fission,15,4.31E-13
+GO:0000278~mitotic   cell cycle,16,2.1E-11
+GO:0000793~condensed   chromosome,10,8.08E-10
+GO:0005819~spindle,10,2.58E-09
+GO:0051301~cell   division,13,2.72E-09
+"GO:0000775~chromosome,   centromeric region",9,1.43E-08
+GO:0007017~microtubule-based   process,11,8.74E-08
+GO:0051726~regulation   of cell cycle,12,0.000000108
+GO:0000819~sister   chromatid segregation,6,0.000000437
+GO:0015630~microtubule   cytoskeleton,13,0.000000461
+GO:0005694~chromosome,12,0.000000628
